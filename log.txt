@@ -1,0 +1,4 @@
+__00:59 29/5/2023__:
+Will have pasted my initial solver by the time I'm done writing this log entry.
+Currently, the solver is limited to one solving technique, along with being encapsulated in only one file, with an incapability to solve hard+ sudokus.
+I'll start making changes once I have the time and will, but as for now, this is the start of this project.
